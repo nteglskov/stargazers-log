@@ -1,0 +1,38 @@
+[
+  {
+    "name": "octocat/hello-world",
+    "full_name": "octocat/hello-world",
+    "description": "My first repository on GitHub.",
+    "language": "HTML",
+    "stargazers_count": 145,
+    "html_url": "https://github.com/octocat/hello-world",
+    "starred_at": "2024-01-12T10:20:00Z"
+  },
+  {
+    "name": "microsoft/vscode",
+    "full_name": "microsoft/vscode",
+    "description": "Visual Studio Code, built with web technologies.",
+    "language": "TypeScript",
+    "stargazers_count": 230000,
+    "html_url": "https://github.com/microsoft/vscode",
+    "starred_at": "2024-02-03T08:45:00Z"
+  },
+  {
+    "name": "vercel/next.js",
+    "full_name": "vercel/next.js",
+    "description": "The React framework for building full-stack web apps.",
+    "language": "JavaScript",
+    "stargazers_count": 125000,
+    "html_url": "https://github.com/vercel/next.js",
+    "starred_at": "2024-03-22T14:10:00Z"
+  },
+  {
+    "name": "tailwindlabs/tailwindcss",
+    "full_name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "CSS",
+    "stargazers_count": 90000,
+    "html_url": "https://github.com/tailwindlabs/tailwindcss",
+    "starred_at": "2024-04-18T09:30:00Z"
+  }
+]
